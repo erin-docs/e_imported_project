@@ -1,6 +1,6 @@
 connection: "red_flight"
 
-# include all the views
+#  include all the views
 include: "/views/**/*.view"
 
 datagroup: e_imported_project_default_datagroup {
